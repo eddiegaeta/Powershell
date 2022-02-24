@@ -1,6 +1,6 @@
 # Powershell
 A collection of powershell scripts 
-This is small sample of generalized scripts that I've worked on previously
+This is small sample of generalized scripts that I've worked on
 
 Hey all!
 Please feel free to drop me an email at eddiegaeta@gmail.com if you like what you see!
