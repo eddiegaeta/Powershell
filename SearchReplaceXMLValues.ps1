@@ -1,11 +1,13 @@
-##Pull EAccess paths from web.config files and changes via XML/Powershell
-##Ed Gaeta#######################
-##2/3/2021#######################
-##!!Run on a per server basis!!##
-#Look for any files contain "AccessAnyWhereImagePath" on e:\ drive
-#Load to Variable
-#Continue to filter for \SomestringVal
-#Loads all results into $FilePathArray ArrayList
+<#
+Pull EAccess paths from web.config files and changes via XML/Powershell
+Ed Gaeta#######################
+2/3/2021#######################
+!!Run on a per server basis!!##
+Look for any files contain "AccessAnyWhereImagePath" on e:\ drive
+Load to Variable
+Continue to filter for \SomestringVal
+Loads all results into $FilePathArray ArrayList
+#>
 
 $colonslash = ":\"  
 $slash = "\"
